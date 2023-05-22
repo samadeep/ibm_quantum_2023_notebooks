@@ -27,10 +27,10 @@ Create a GHZ state on one of IBM’s 127-qubit processors. You will try to modif
   
  
  ## Resources :
- https://quantumzeitgeist.com/how-to-disentangle-qubits/
- https://arxiv.org/pdf/1804.03719.pdf
- https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023
- https://research.ibm.com/blog/whole-device-entanglement
+ - https://quantumzeitgeist.com/how-to-disentangle-qubits/
+ - https://arxiv.org/pdf/1804.03719.pdf
+ - https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023
+ - https://research.ibm.com/blog/whole-device-entanglement
   
   
   
