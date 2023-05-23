@@ -25,9 +25,11 @@ the introduction of dynamic circuits. In this lab, we will use the newly introdu
 ## Lab 5
 ### 127Q System
 Create a GHZ state on one of IBM’s 127-qubit processors. You will try to modify the GHZ state with additional qubits as stabilizers.
+ 
   
-  
- ## Resources :
+ ## Resources :  
+ 
+  ```sh
   • Qiskit Textbook:
       https://qiskit.org/textbook/preface.html
     • Quantum Computing for Computer Scientists:
@@ -49,8 +51,7 @@ Create a GHZ state on one of IBM’s 127-qubit processors. You will try to modif
       https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023
     • Helpful Repos :
       https://github.com/SaashaJoshi/quantum-computing
-  
-  
+  ```
 
   
 
